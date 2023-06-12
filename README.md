@@ -18,7 +18,7 @@ A définir
 ### Installation
 
 <<<<<<< HEAD
-Meriem is a beautiful girl Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Houda is a beautiful girl Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 =======
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : Le Maroc est le plus beau pays du monde
 >>>>>>> 079c8b086ba8b3edc28c116edc7f4e07c7c3724a
